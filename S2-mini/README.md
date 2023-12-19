@@ -6,7 +6,7 @@ Stable release link: https://espressif.github.io/arduino-esp32/package_esp32_ind
 
 ![Capture0](https://github.com/siliciium/ESP32/assets/103604296/bd72dc9f-db65-444d-99f5-143ce49e1071)
 
-Go to board manager and install `esp32` package by `Espressif Systems`
+Go to `Board manager` and install `esp32` package by `Espressif Systems`
 
 ![Capture0 5](https://github.com/siliciium/ESP32/assets/103604296/206ba0e6-b9b4-4a9a-b801-885994b51b9e)
 
