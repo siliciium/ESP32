@@ -1,5 +1,7 @@
 # Arduino IDE 2.2.1
 
+Go to `Preferences` and add package URL in `Additional map manager URLs`
+
 Stable release link: https://espressif.github.io/arduino-esp32/package_esp32_index.json
 
 ![Capture0](https://github.com/siliciium/ESP32/assets/103604296/bd72dc9f-db65-444d-99f5-143ce49e1071)
