@@ -32,6 +32,8 @@ If the example code you chose implements serial, you should see the result in th
 
 
 # Ref : 
+https://www.espressif.com/sites/default/files/documentation/esp32-s2_datasheet_en.pdf
+
 https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html
 
 https://github.com/espressif/arduino-esp32
