@@ -28,5 +28,9 @@ Choose an example code
 Upload your sketch. Open `Serial Monitor` in Arduino and push the ESP32-S2 mini `physical RESET button`.
 If the example code you chose implements serial, you should see the result in the serial monitor.
 
-Enjoy !
+
+# Ref : 
+https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html
+
+https://github.com/espressif/arduino-esp32
 
